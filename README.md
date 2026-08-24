@@ -41,6 +41,10 @@ The dataset contains **243 daily records covering July 2024 to February 2025**.
 * Monitor weather-related sales patterns when planning inventory and staffing.
 * Continue tracking customer feedback alongside sales to ensure revenue growth is aligned with customer satisfaction.
 
+## Power BI Dashboard
+
+![Tasty Bites Power BI Dashboard](dashboard/tasty_bites_dashboard.png)
+
 ## Project Files
 
 * `sql/Tasty_Bites_Analysis.sql` – SQL queries used for data exploration and analysis.
