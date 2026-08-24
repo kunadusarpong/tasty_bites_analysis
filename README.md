@@ -17,9 +17,9 @@ The dataset contains **243 daily records covering July 2024 to February 2025**.
 
 ## Tools Used
 
- **Excel** – Data preparation and initial analysis
- **MySQL** – Data exploration and SQL analysis
- **Power BI** – Data visualization and dashboard development
+ * **Excel** – Data preparation and initial analysis
+ * **MySQL** – Data exploration and SQL analysis
+ * **Power BI** – Data visualization and dashboard development
 
 ## Key Findings
 
