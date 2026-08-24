@@ -8,12 +8,12 @@ The dataset contains **243 daily records covering July 2024 to February 2025**.
 
 ## Business Questions
 
- How did sales and customer traffic change over time?
- Which menu items were most frequently recorded as the top-performing items?
- How did weather conditions relate to sales and customer traffic?
- Did promotional days perform better than non-promotion days?
- Which menu items received the highest customer feedback?
- What characteristics were associated with the restaurant's highest-sales days?
+ * How did sales and customer traffic change over time?
+ * Which menu items were most frequently recorded as the top-performing items?
+ * How did weather conditions relate to sales and customer traffic?
+ * Did promotional days perform better than non-promotion days?
+ * Which menu items received the highest customer feedback?
+ * What characteristics were associated with the restaurant's highest-sales days?
 
 ## Tools Used
 
@@ -23,14 +23,14 @@ The dataset contains **243 daily records covering July 2024 to February 2025**.
 
 ## Key Findings
 
- Total sales during the period amounted to **GHS 1.32 million**, with **32,301 customers served**.
- Average customer spend was approximately **GHS 40.96**, while the average customer feedback score was **4.53/5**.
- Monthly sales increased from July 2024 and reached a peak of **GHS 189,000 in October 2024**, before declining in November.
- **Rainy days recorded the highest average daily sales (GHS 5,865.75)** compared with cloudy and sunny days.
- Promotion days recorded higher average daily sales and customer traffic than non-promotion days.
- **Fufu & Light Soup** recorded the highest average daily sales when it was the top menu item.
- **Banku & Fish** received the highest average customer feedback score of **4.79/5**.
- The majority of the highest-sales days occurred on **weekends**, particularly Sundays.
+ * Total sales during the period amounted to **GHS 1.32 million**, with **32,301 customers served**.
+ * Average customer spend was approximately **GHS 40.96**, while the average customer feedback score was **4.53/5**.
+ * Monthly sales increased from July 2024 and reached a peak of **GHS 189,000 in October 2024**, before declining in November.
+ * **Rainy days recorded the highest average daily sales (GHS 5,865.75)** compared with cloudy and sunny days.
+ * Promotion days recorded higher average daily sales and customer traffic than non-promotion days.
+ * **Fufu & Light Soup** recorded the highest average daily sales when it was the top menu item.
+ * **Banku & Fish** received the highest average customer feedback score of **4.79/5**.
+ * The majority of the highest-sales days occurred on **weekends**, particularly Sundays.
 
 ## Recommendations
 
