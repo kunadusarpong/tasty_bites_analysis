@@ -43,7 +43,7 @@ The dataset contains **243 daily records covering July 2024 to February 2025**.
 
 ## Power BI Dashboard
 
-![Tasty Bites Power BI Dashboard](tasty_bites_dashboard.png)
+![Tasty Bites Power BI Dashboard](dashboard\tasty_bites_dashboard.png)
 
 ## Project Files
 
